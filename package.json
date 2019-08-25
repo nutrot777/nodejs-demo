@@ -1,0 +1,19 @@
+{
+  "name": "mguru77",
+  "version": "0.0.1",
+  "description": "my first npm central module. demo",
+  "main": "1",
+  "scripts": {
+    "test": "Add"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nutrot777/nodejs-demo.git"
+  },
+  "author": "'computeman' <'nutrot.compute@outlook.com'> ('charles.com')",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nutrot777/nodejs-demo/issues"
+  },
+  "homepage": "https://github.com/nutrot777/nodejs-demo#readme"
+}
